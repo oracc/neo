@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="neo">
+  <name>New Easier Oracc</name>
+  <abbrev>NEO</abbrev>
+  <logo type="text">NEO</logo>
+  <type>corpus</type>
+  <public>yes</public>
+  <blurb>New Easier Oracc simplifies access to Oracc</blurb>
+  <image>thumb.png</image>
+  <image-alt></image-alt>
+  <option name="build-approved-policy" value="catalog"/>
+  <option name="catalog-build-policy" value="virtual"/>
+  <option name="cbd-mode" value="dynamic"/>
+  <option name="cbd-super" value="mega"/>
+  <option name="outline-default-select" value="true"/>
+  <option name="outline-default-sort-fields" value="period,subgenre,provenience"/>
+  <option name="outline-default-sort-labels" value="Time,Genre,Place"/>
+  <option name="project-hide" value="yes"/>
+  <url/>
+</project>

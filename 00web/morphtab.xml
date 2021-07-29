@@ -1,0 +1,1410 @@
+<?xml version="1.0"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+<esp:name>Morphology Table</esp:name>
+<esp:title>ePSD2 Sumerian Morphology Table</esp:title>
+<html>
+<head/>
+<body>
+
+<h2>Morphological Model Tabulation</h2>
+
+<div class="Section1">
+<h3>1. Noun Suffixes</h3>
+<p></p>
+<table>
+<tr>
+<td valign="top">
+<p>N</p>
+</td>
+<td valign="top">
+<p>NSF1</p>
+</td>
+<td valign="top">
+<p>NSF2</p>
+</td>
+<td valign="top">
+<p>NSF3</p>
+</td>
+<td valign="top">
+<p>NSF4</p>
+</td>
+<td valign="top">
+<p>NSF5</p>
+</td>
+<td valign="top">
+<p>NSF6</p>
+</td>
+<td valign="top">
+<p>NSF7</p>
+</td>
+<td valign="top">
+<p>NSF8</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>N</p>
+</td>
+<td valign="top">
+<p>GEN</p>
+</td>
+<td valign="top">
+<p>POSS</p>
+</td>
+<td valign="top">
+<p>GEN</p>
+</td>
+<td valign="top">
+<p>PL</p>
+</td>
+<td valign="top">
+<p>GEN</p>
+</td>
+<td valign="top">
+<p>PL</p>
+</td>
+<td valign="top">
+<p>CAS</p>
+</td>
+<td valign="top">
+<p>COP</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ak</p>
+</td>
+<td valign="top">
+<p>ju</p>
+</td>
+<td valign="top">
+<p>ak</p>
+</td>
+<td valign="top">
+<p>ene</p>
+</td>
+<td valign="top">
+<p>ak</p>
+</td>
+<td valign="top">
+<p>ene</p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p>men</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>zu</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p>men</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ani</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ra</p>
+</td>
+<td valign="top">
+<p>am</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>bi</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>da</p>
+</td>
+<td valign="top">
+<p>menden</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>me</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ta</p>
+</td>
+<td valign="top">
+<p>mezen</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>zunene</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ece</p>
+</td>
+<td valign="top">
+<p>mec</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>anene</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>a</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>bi</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>gin</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+</table>
+<h3>2. Verb Prefixes</h3>
+<p></p>
+<table>
+<tr>
+<td valign="top">
+<p>VPR1</p>
+</td>
+<td valign="top">
+<p>-VPR2</p>
+</td>
+<td valign="top">
+<p>-VPR3</p>
+</td>
+<td valign="top">
+<p>-VPR4</p>
+</td>
+<td valign="top">
+<p>-VPR5</p>
+</td>
+<td valign="top">
+<p>-VPR6</p>
+</td>
+<td valign="top">
+<p>-VPR7</p>
+</td>
+<td valign="top">
+<p>-VPR8</p>
+</td>
+<td valign="top">
+<p>-VPR9</p>
+</td>
+<td valign="top">
+<p>-VPR10</p>
+</td>
+<td valign="top">
+<p>-R</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>MP</p>
+</td>
+<td valign="top">
+<p>CNJ</p>
+</td>
+<td valign="top">
+<p>CP</p>
+</td>
+<td valign="top">
+<p>DAT</p>
+</td>
+<td valign="top">
+<p>PRO</p>
+</td>
+<td valign="top">
+<p>COM</p>
+</td>
+<td valign="top">
+<p>PRO</p>
+</td>
+<td valign="top">
+<p>T/A</p>
+</td>
+<td valign="top">
+<p>L/LT</p>
+</td>
+<td valign="top">
+<p>PRO</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p>inga</p>
+</td>
+<td valign="top">
+<p>mu</p>
+</td>
+<td valign="top">
+<p> (m)a</p>
+</td>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p>da</p>
+</td>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p>ci/ta</p>
+</td>
+<td valign="top">
+<p>ni/I</p>
+</td>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>nu</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ba</p>
+</td>
+<td valign="top">
+<p>ra</p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>ha</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>i/amma</p>
+</td>
+<td valign="top">
+<p>na</p>
+</td>
+<td valign="top">
+<p>n</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>n</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>n</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>na</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>i/a</p>
+</td>
+<td valign="top">
+<p>(m)e</p>
+</td>
+<td valign="top">
+<p>m</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>m</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>m</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>na</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>al</p>
+</td>
+<td valign="top">
+<p>ne</p>
+</td>
+<td valign="top">
+<p>b</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>b</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>b</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>bara</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>ca</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>u</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+</table>
+<h3>3a. Verb Suffixes: finite (1)</h3>
+<p></p>
+<table>
+<tr>
+<td valign="top">
+<p>R</p>
+</td>
+<td valign="top">
+<p>-VSF1</p>
+</td>
+<td valign="top">
+<p>-VSF2</p>
+</td>
+<td valign="top">
+<p>-VSF3</p>
+</td>
+<td valign="top">
+<p>-VSF4</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>AF</p>
+</td>
+<td valign="top">
+<p>FO</p>
+</td>
+<td valign="top">
+<p>PRO</p>
+</td>
+<td valign="top">
+<p>COP</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p>de</p>
+</td>
+<td valign="top">
+<p>en</p>
+</td>
+<td valign="top">
+<p>am</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>en</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>0/e</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>enden</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>enzen</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ec/ene</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+</table>
+<p></p>
+<h3>3b. Verb Suffixes: finite (2)</h3>
+<p>This suffix chain follows follows VSF3 of (1)</p>
+<p></p>
+<table>
+<tr>
+<td valign="top">
+<p>-VSF4</p>
+</td>
+<td valign="top">
+<p>-VSF5</p>
+</td>
+<td valign="top">
+<p>-VSF6</p>
+</td>
+<td valign="top">
+<p>-VSF7</p>
+</td>
+<td valign="top">
+<p>-VSF8</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>NOM</p>
+</td>
+<td valign="top">
+<p>POST/GEN</p>
+</td>
+<td valign="top">
+<p>POSS</p>
+</td>
+<td valign="top">
+<p>CAS</p>
+</td>
+<td valign="top">
+<p>COP</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>a</p>
+</td>
+<td valign="top">
+<p>ri/ak</p>
+</td>
+<td valign="top">
+<p>ju</p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p>am</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>zu</p>
+</td>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ani</p>
+</td>
+<td valign="top">
+<p>ra</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>bi</p>
+</td>
+<td valign="top">
+<p>da</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>me</p>
+</td>
+<td valign="top">
+<p>ta</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>zunene</p>
+</td>
+<td valign="top">
+<p>ece</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>anene</p>
+</td>
+<td valign="top">
+<p>a</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>bi</p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>gin</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<h3>4. Verb Suffixes: non-finite</h3>
+<p></p>
+<table>
+<tr>
+<td valign="top">
+<p>R</p>
+</td>
+<td valign="top">
+<p>-VSF1</p>
+</td>
+<td valign="top">
+<p>-VSF2</p>
+</td>
+<td valign="top">
+<p>-VSF3</p>
+</td>
+<td valign="top">
+<p>-VSF4</p>
+</td>
+<td valign="top">
+<p>-VSF5</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>AF</p>
+</td>
+<td valign="top">
+<p>FO/POST</p>
+</td>
+<td valign="top">
+<p>NOM/COP</p>
+</td>
+<td valign="top">
+<p>POSS</p>
+</td>
+<td valign="top">
+<p>POST</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>e</p>
+</td>
+<td valign="top">
+<p>de/de</p>
+</td>
+<td valign="top">
+<p>a/am</p>
+</td>
+<td valign="top">
+<p>ju</p>
+</td>
+<td valign="top">
+<p>de</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>zu</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ni</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>bi</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>nene</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>bi</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+</table>
+<h3>5. Imperative</h3>
+<p></p>
+<table>
+<tr>
+<td valign="top">
+<p>R</p>
+</td>
+<td valign="top">
+<p>-ISF1</p>
+</td>
+<td valign="top">
+<p>-ISF2</p>
+</td>
+<td valign="top">
+<p>-ISF3</p>
+</td>
+<td valign="top">
+<p>-ISF4</p>
+</td>
+<td valign="top">
+<p>-ISF5</p>
+</td>
+<td valign="top">
+<p>-ISF6</p>
+</td>
+<td valign="top">
+<p>-ISF7</p>
+</td>
+<td valign="top">
+<p>-ISF8</p>
+</td>
+<td valign="top">
+<p>-ISF9</p>
+</td>
+<td valign="top">
+<p>-ISF10</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>?</p>
+</td>
+<td valign="top">
+<p>CP</p>
+</td>
+<td valign="top">
+<p>DAT</p>
+</td>
+<td valign="top">
+<p>PRO</p>
+</td>
+<td valign="top">
+<p>COM</p>
+</td>
+<td valign="top">
+<p>PRO</p>
+</td>
+<td valign="top">
+<p>T/A</p>
+</td>
+<td valign="top">
+<p>L/LT</p>
+</td>
+<td valign="top">
+<p>PRO</p>
+</td>
+<td valign="top">
+<p>PRO</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>a</p>
+</td>
+<td valign="top">
+<p>mu</p>
+</td>
+<td valign="top">
+<p> (m)a</p>
+</td>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p>da</p>
+</td>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p>ci/ta</p>
+</td>
+<td valign="top">
+<p>ni/I</p>
+</td>
+<td valign="top">
+<p>0</p>
+</td>
+<td valign="top">
+<p>enzen</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>ba</p>
+</td>
+<td valign="top">
+<p>na</p>
+</td>
+<td valign="top">
+<p>n</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>n</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>n</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>amma</p>
+</td>
+<td valign="top">
+<p>(m)e</p>
+</td>
+<td valign="top">
+<p>b</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>b</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>b</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>i/a</p>
+</td>
+<td valign="top">
+<p>ne</p>
+</td>
+<td valign="top">
+<p>m</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>m</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+<td valign="top">
+<p>m</p>
+</td>
+<td valign="top">
+<p> </p>
+</td>
+</tr>
+</table>
+<p></p>
+<p>*The order of verbal prefix chain is reversed, and -a- is added in
+ISF1 and enzen in ISF10.</p>
+</div>
+
+</body>
+</html>
+</esp:page>

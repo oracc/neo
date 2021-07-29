@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+<esp:name>Credits</esp:name>
+<esp:title>ePSD2 Credits</esp:title>
+<html>
+<head/>
+<body>
+<p>ePSD2 relies heavily on the work of other projects for its corpora,
+including the following:</p>
+<dl>
+  <dt>CDLI</dt><dd>ePSD2's administrative corpora are largely derived from CDLI and lemmatized by the ePSD staff</dd>
+  <dt>CKST</dt><dd>Kassite royal inscriptions are included directly from CKST</dd>
+  <dt>DCCLT</dt><dd>ePSD2's lexical corpus is included directly from DCCLT</dd>
+  <dt>ETCSL</dt><dd>ePSD2's Old Babylonian Sumerian literature
+  corpus is based on the ETCSL corpus</dd>
+</dl>
+
+</body>
+</html>
+</esp:page>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+<esp:name>Morphology</esp:name>
+<esp:title>ePSD2 Sumerian Morphology</esp:title>
+<html>
+<head/>
+<body>
+
+  <p>ePSD2 uses a simple morphological model for parsing Sumerian which was created by Fumi Karahashi and Steve Tinney for a prior project, the Penn Parsed Corpus of Sumerian.</p>
+
+  <p>The notations are intended to be simple for machine parsing and to be sufficient as a finding aid for the morphology without manual correction.</p>
+
+  <p>There is a <esp:link page="morphtab">tabulation of the morphemes we use</esp:link> as well as <esp:link page="morphexp">brief set of explanations of the model</esp:link>.</p>
+
+</body>
+</html>
+</esp:page>
