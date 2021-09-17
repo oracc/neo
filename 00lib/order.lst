@@ -1,6 +1,19 @@
+epsd2/admin/ed12
+epsd2/admin/ed3a
+epsd2/admin/ed3b
+epsd2/admin/ebla
+epsd2/admin/oakk
+epsd2/admin/ur3
+epsd2/admin/lagash2
+epsd2/admin/oldbab
+epsd2/praxis
+epsd2/praxis/udughul
+epsd2/praxis/liturgy
+epsd2/praxis/varia
+epsd2/earlylit
+epsd2/literary
+epsd2/royal
 aemw/alalakh/idrimi
-amgg
-armep
 blms
 cams
 cams/anzu
@@ -13,9 +26,9 @@ ccpo
 ckst
 cmawro
 cmawro/cmawr1
+cmawro/cmawr2
+cmawro/cmawr3
 contrib
-contrib/amarna
-contrib/lambert
 ctij
 dcclt
 dcclt/nineveh
@@ -24,7 +37,6 @@ dccmt
 etcsri
 glass
 hbtin
-issl
 lacost
 nimrud/texts
 obmc
@@ -32,7 +44,6 @@ obta
 ogsl
 riao
 ribo/bab7scores
-ribo/babylon10
 ribo/babylon2
 ribo/babylon3
 ribo/babylon4
@@ -40,6 +51,7 @@ ribo/babylon5
 ribo/babylon6
 ribo/babylon7
 ribo/babylon8
+ribo/babylon10
 ribo/sources
 rimanum
 rinap/rinap1
@@ -69,4 +81,3 @@ saao/saa19
 saao/saa20
 saao/saas2
 suhu
-#cdli
