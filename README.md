@@ -29,5 +29,11 @@ When building on a separate SEARCH_HOST, however, it is advisable to check that 
 
 Note that there can be a delay between the appearance of a new **GLOSSARIES** manifest and the updating of **installstamp**.  Oracc servers by default check for new packages every 10 minutes.  All the new packages are retrieved, then they are all unpacked/installed, then they are all indexed.  When a very large set of packages (like ePSD2) is updated this can mean that there is an hour or more between running ```oracc serve``` on the BUILD_HOST and the final indexing of the served package on SEARCH_HOST.
 
+## Identifiers in Neo
+
+Oracc glossaries uses two kinds of word identifiers: OIDs and XIDs which have the template o1234567 and x1234567 respectively.  OIDs are stable and persistent--they are presently used only for Sumerian where they are curated in ePSD to ensure that OIDs for words that are deleted or merged continue to lead to an appropriate place.
+
+Neo uses XIDs for all other languages.  XIDs are stable in the sense that the same word in the same language will always be assigned the same XID; there is no guarantee that XIDs will be persistent, however--if a rare word is reinterpreted by all the projects that reference it then the XID associated with the old interpretation will cease to be valid.
+
 
 
