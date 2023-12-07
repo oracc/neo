@@ -23,7 +23,7 @@ The **GLOSSARIES** file is the last file written by Neo's ```oracc build``` proc
 
 ## Glossary Articles
 
-The glossary articles are created on BUILD_HOST before the glossary JSON is built; they are served to SEARCH_HOST after the glossary JSON built.  This means that when building indexes in a context where BUILD_HOST=SEARCH_HOST no synchronization checks are necessary. 
+The glossary articles are created on BUILD_HOST before the glossary JSON is built; they are served to SEARCH_HOST after the glossary JSON is built.  This means that when building indexes in a context where BUILD_HOST=SEARCH_HOST no synchronization checks are necessary. 
 
 When building on a separate SEARCH_HOST, however, it is advisable to check that the installed glossary articles are later than the glossary JSON and this can be done by comparing the timestamp on the **GLOSSARIES** manifest with the SEARCH_HOST file **/home/oracc/neo/installstamp**.  The **installstamp** file is touched by the serve-installation process at the end of installation and indexing; it does not exist on BUILD_HOST, only on SEARCH_HOST, after a served package has been installed and indexed.
 
