@@ -35,5 +35,4 @@ Oracc glossaries uses two kinds of word identifiers: OIDs and XIDs which have th
 
 Neo uses XIDs for all other languages.  XIDs are stable in the sense that the same word in the same language will always be assigned the same XID; there is no guarantee that XIDs will be persistent, however--if a rare word is reinterpreted by all the projects that reference it then the XID associated with the old interpretation will cease to be valid.
 
-
-
+As long as search engines are using glossaries which are built at the same time as the glossary articles, and the glossary articles have been installed on the same server as the search engine, all of the XIDs in the glossary are guaranteed to have a corresponding glossary article.
