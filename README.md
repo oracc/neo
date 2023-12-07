@@ -27,7 +27,7 @@ The glossary articles are created on BUILD_HOST before the glossary JSON is buil
 
 When building on a separate SEARCH_HOST, however, it is advisable to check that the installed glossary articles are later than the glossary JSON and this can be done by comparing the timestamp on the **GLOSSARIES** manifest with the SEARCH_HOST file **/home/oracc/neo/installstamp**.  The **installstamp** file is touched by the serve-installation process at the end of installation and indexing; it does not exist on BUILD_HOST, only on SEARCH_HOST, after a served package has been installed and indexed.
 
-Note that there can be a delay between the appearance of a new **GLOSSARIES** manifest and the updating of **installstamp**.  Oracc servers by default check for new packages every 10 minutes.  All the new packages are retrieved, then they are all unpacked/installed, then they are all indexed.  When a very large set of packages (like ePSD2) is updated, this can mean that there is an hour or more between running ```oracc serve``` on the BUILD_HOST and the final indexing of the served package on SEARCH_HOST.
+Note that there can be a delay between the appearance of a new **GLOSSARIES** manifest and the updating of **installstamp**.  Oracc servers by default check for new packages every 10 minutes.  All the new packages are retrieved, then they are all unpacked/installed, then they are all indexed.  When a very large set of packages (like ePSD2) is updated this can mean that there is an hour or more between running ```oracc serve``` on the BUILD_HOST and the final indexing of the served package on SEARCH_HOST.
 
 
 
