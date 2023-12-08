@@ -23,12 +23,14 @@ The **GLOSSARIES** file is the last file written by Neo's ```oracc build``` proc
 
 A sample list of files looks like this:
 
+```
 gloss-akk.json.xz
 gloss-qpn.json.xz
 gloss-sux.json.xz
 gloss-uga.json.xz
 gloss-xhu.json.xz
 GLOSSARIES
+```
 
 The glossary files are named using the three letter language code and are compressed using ``xz``; use ``unxz`` to decompress them.
 
