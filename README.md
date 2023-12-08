@@ -21,6 +21,17 @@ The glossary JSON that should be used by ElasticSearch is in BUILD_HOST/neo/down
 
 The **GLOSSARIES** file is the last file written by Neo's ```oracc build``` process so it is also a timestamp for the current glossary build.
 
+A sample list of files looks like this:
+
+gloss-akk.json.xz
+gloss-qpn.json.xz
+gloss-sux.json.xz
+gloss-uga.json.xz
+gloss-xhu.json.xz
+GLOSSARIES
+
+The glossary files are named using the three letter language code and are compressed using ``xz``; use ``unxz`` to decompress them.
+
 ## Glossary Articles
 
 The glossary articles are created on BUILD_HOST before the glossary JSON is built; they are served to SEARCH_HOST after the glossary JSON is built.  This means that when building indexes in a context where BUILD_HOST=SEARCH_HOST no synchronization checks are necessary. 
