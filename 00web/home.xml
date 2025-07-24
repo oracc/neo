@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
 <esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0"><esp:name>Home</esp:name><esp:title>NEO: New Easier Oracc</esp:title><html><head/><body><esp:image file="" description=""/><p/>
 
-<p>This project is the data source for a new interface to Oracc which is currently under development and as such is not tuned for use with the interface you are presently using. Your mileage may vary.</p>
+<p>This project is the data source for a new interface to Oracc</p>
+
+<p>You can <esp:link url="/neo/pager">explore it via the
+pager</esp:link> or via the <esp:link url="/neo/hub.html">glossaries
+on the hub page</esp:link>.</p>
 
 </body></html></esp:page>
