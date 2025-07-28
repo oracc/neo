@@ -18,6 +18,8 @@
   <option name="cbd-new-style" value="yes"/>
   <option name="cbd-super" value="mega"/>
   <option name="cbd-oid" value="yes"/>
+  <option name="cbd-hide-forms" value="yes"/>
+  <option name="cbd-hide-norms" value="yes"/>
   <option name="outline-default-select" value="true"/>
   <option name="outline-default-sort-fields" value="period,subgenre,provenience"/>
   <option name="outline-default-sort-labels" value="Time,Genre,Place"/>
